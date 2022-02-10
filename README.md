@@ -1,3 +1,2 @@
 # week-2-loops-ifs
-Class Week 2
-Front end development class projects. 
+Class Week 2: JavaScript projects for front end development class!!
